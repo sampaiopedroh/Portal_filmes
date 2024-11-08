@@ -30,7 +30,7 @@ Este projeto é um portal de filmes desenvolvido com React, utilizando a API The
 ## Instalação e Execução
 **1. Clone o repositório:**
 
-   ```bash
+   bash
    git clone <URL_DO_REPOSITORIO>
 
 **2. Instale as dependências:**

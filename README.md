@@ -34,6 +34,7 @@ Este projeto é um portal de filmes desenvolvido com React, utilizando a API The
    git clone <URL_DO_REPOSITORIO>
 
 **2. Instale as dependências:**
+
     cd portal-filmes  // Entre na pasta do projeto.
     npm install      // ou yarn install
 

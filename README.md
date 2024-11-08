@@ -55,6 +55,7 @@ O aplicativo estará disponível em http://localhost:3000 (ou em outra porta, ca
 - Selecione um gênero na página "Gêneros" para ver os filmes correspondentes.
 - Utilize o formulário de contato para enviar uma mensagem
 
+
 **Observações**
 Lembre-se de substituir <URL_DO_REPOSITORIO> pela URL real do seu repositório e <SUA_CHAVE_DA_API_TMDB> pela sua chave da API do TMDb. Você pode obter uma chave de API gratuitamente no site do TMDb.
 

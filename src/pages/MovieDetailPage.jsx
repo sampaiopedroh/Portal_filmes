@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 
 export default function MovieDetailPage() {
@@ -51,7 +50,7 @@ export default function MovieDetailPage() {
     return (
         <div className="container mx-auto p-4">
             <h2 className="text-2xl font-bold mb-4">{movie.title}</h2>
-            <img src={`https://image.tmdb.org/t/p/w500${movie.poster_path}`} alt={movie.title} className="w-full h-auto rounded-lg mb-4" />
+            <img src={`https://image.tmdb.org/t/p/w500${movie.poster_path}`} alt={movie.title} className="w-200 h-200 rounded-lg mb-4" />
             <p className="text-gray-300 mb-4">{movie.overview}</p>
 
 
